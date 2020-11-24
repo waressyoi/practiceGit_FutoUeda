@@ -11,7 +11,7 @@ GitHub 練習
 
 ●2-2:Bさんが行う----
 ABCDE
-abcde
+abcde1
 ●2-3:Cさんが行う----
 123
 
